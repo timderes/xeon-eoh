@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Xeon - Empire of Heroes is an small tactical browser game.",
   "scripts": {
+    "ts:watch": "tsc -w"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   },
   "homepage": "https://github.com/timderes/xeon-eoh#readme",
   "devDependencies": {
+    "typescript": "^5.8.3"
   }
 }
